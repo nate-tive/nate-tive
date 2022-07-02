@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nate-tive
+- 👋 Hi, I’m @nate-tive from :indonesia:
 - 🌱 I’m currently learning CSS, JavaScript, Kotlin
 
 <!---
