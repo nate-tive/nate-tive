@@ -3,7 +3,6 @@
 ## About Me
 
 Hi, I’m @nate-tive from Indonesia:indonesia:.
-- I’m currently learning CSS, JavaScript, Kotlin
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nate-tive&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
